@@ -1,2 +1,2 @@
 # ThreadPool
-A ThreadPoll base on C++17.
+A ThreadPool base on C++17.
